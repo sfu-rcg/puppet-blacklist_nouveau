@@ -21,5 +21,6 @@ include blacklist_nouveau
 ## Version History
 
 0.2 - 19-Jan-2016: Initial Ubuntu support.
+
 0.1 - 24-Sep-2013: BEGIN.
 
